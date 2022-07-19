@@ -1,2 +1,2 @@
 # AuctionApp
-Simple production phases of auction App
+Simple production phases of clerking software for auctions
